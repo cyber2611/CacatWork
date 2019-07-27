@@ -1,13 +1,14 @@
-# Brother Id
+# Bangsa-Indo
 
 
-$ pkg update && pkg update
+$ pkg upgrade
+$ pkg update
 $ pkg install python2
 $ pip2 install mechanize
 $ pip2 install requests
 $ pkg install git
-$ git clone https://github.com/cyber2611/Brother-Id
+$ git clone https://github.com/cyber2611/CacatWork 
 $ ls
-$ cd Brother-Id
+$ cd CacatWork 
 $ ls
-$ sh luarbiasa.sh
+$ sh bangsa-indo.sh
